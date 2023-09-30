@@ -1,6 +1,6 @@
 #![no_std]
 
-mod panichandler;
+pub mod panichandler;
 
 
 
